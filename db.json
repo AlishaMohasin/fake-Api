@@ -1,19 +1,9 @@
 {
- "user":[
-
- ],
- "books":[
-   
-
- ],
- "hospital":[
-
- ],
- "doctor":[
-
- ]
-
-  
+  "user": [],
+  "books": [],
+  "hospital": [],
+  "doctor": [],
+  "user": [],
+  "Tweet":[],
+  "Timeline":[]
 }
-
-
